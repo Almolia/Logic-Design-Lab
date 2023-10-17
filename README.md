@@ -1,5 +1,6 @@
 # Logic-Design-Lab
 Logic Design Lab Reports (Dr. Hessabi, Summer 2023)
+By: Ali Mohammadzade Shabestari, Fatemeh Hamdi
 
 به این دو نکته توجه داشته باشید: 
 * گزارش‌ آزمایش دوم باید دارای تست برای همه حالات و بخش‌های آزمایش باشد.
